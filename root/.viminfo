@@ -1,0 +1,56 @@
+# Este ficheiro viminfo foî gerado pelo Vim 8.1.
+# Pode editar apenas se for cuidadoso!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último padrão de busca :
+~MSle0~/paulo
+
+# Histórico de linha de comando (mais recente primeiro):
+:q
+|2,0,1652379020,,"q"
+
+# Histórico de expressões de busca (mais recente primeiro):
+?/paulo
+|2,1,1652379014,47,"paulo"
+
+# Histórico de expressões (mais recente primeiro):
+
+# Histórico de linha de entrada (mais recente primeiro):
+
+# Histórico de linha de debug (mais recente primeiro):
+
+# Registradores:
+
+# Marcas nos arquivos:
+'0  30  0  /etc/apt/sources.list
+|4,48,30,0,1652379020,"/etc/apt/sources.list"
+'1  54  51  /etc/apt/sources.list
+|4,49,54,51,1650399470,"/etc/apt/sources.list"
+'2  54  51  /etc/apt/sources.list
+|4,50,54,51,1650399470,"/etc/apt/sources.list"
+
+# Lista de saltos (mais recente primeiro):
+-'  30  0  /etc/apt/sources.list
+|4,39,30,0,1652379020,"/etc/apt/sources.list"
+-'  54  51  /etc/apt/sources.list
+|4,39,54,51,1652378996,"/etc/apt/sources.list"
+-'  54  51  /etc/apt/sources.list
+|4,39,54,51,1650399470,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1650397208,"/etc/apt/sources.list"
+-'  1  0  /etc/apt/sources.list
+|4,39,1,0,1650397208,"/etc/apt/sources.list"
+
+# Histórico de marcas nos arquivos (mais recente primeiro):
+
+> /etc/apt/sources.list
+	*	1652379014	0
+	"	30	0
